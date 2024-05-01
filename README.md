@@ -13,9 +13,9 @@ This Raffle Lottery contract is designed to create a decentralized and trustless
 
 # Prerequisites
 
-    1.Node.js and npm
-    2.Foundry for smart contract development and testing
-    3.Metamask for interacting with the Ethereum blockchain
+    1. Node.js (v14.x or newer recommended)
+    2. [Foundry](https://github.com/foundry-rs/foundry) for Solidity testing and deployment
+    3. An Ethereum wallet with Ether for deploying contracts (if deploying to a live network)
 
 # Smart Contracts
     1. Raffle.sol: Main contract for raffle management.
