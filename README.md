@@ -1,7 +1,7 @@
 # Raffle Lottery Smart Contract
 # Overview
 
-The Raffle Lottery contract is designed to create a decentralized and trustless lottery system where participants can enter a raffle by sending Ether. It leverages Chainlink VRF for secure and verifiable random number generation and Chainlink Automation for scheduled task execution, ensuring a fair and automated drawing process.
+This Raffle Lottery contract is designed to create a decentralized and trustless lottery system where participants can enter a raffle by sending Ether. It implements Chainlink VRF for secure and verifiable random number generation as well as Chainlink Automation for scheduled task execution, ensuring a fair and automated drawing process.
 
 # Features
 
